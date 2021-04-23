@@ -1,0 +1,25 @@
+/* .container
+{
+	background-image: url('../img/fond.jpg');
+	background-position: left;
+	background-size: cover;
+	background-attachment: fixed;
+} */
+/* .container{
+	background-image: url(../img/fond.jpg);
+	background-size: cover;
+} */
+body{
+	background-color:lightblue;
+}
+
+.row{
+	font-family: 'Montserrat', sans-serif;
+}
+
+.first {
+	background-image: url("../img/fond.jpg");
+	width: 200px;
+	height: 600px;
+	background-size: cover;
+}
